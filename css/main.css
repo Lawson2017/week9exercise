@@ -1,0 +1,24 @@
+.divSize {
+	height: 50px;
+	width: 100%;
+}
+
+.divColor {
+	background-color: red;
+}
+
+.divColor2 {
+	height: 50px;
+	width: 100%;
+	background-color: blue;
+}
+
+.nswo {
+	height: 100px;
+	width: 200px;
+}
+
+.nopo {
+	height: 110px;
+	width: 220px;
+}
